@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Developer)`**
 
-I'm a Frontend Developer and a Fullstack learner. "[TuCodeOnGit][youtube]"
+I am a Frontend Developer and Fullstack learner. "[TuCodeOnGit][youtube]"
 
   <p align="left">
       <a href="https://www.youtube.com/channel/UCF0-4sgpSsEt-ieIAJtfmAA?sub_confirmation=1">
@@ -35,3 +35,4 @@ I'm a Frontend Developer and a Fullstack learner. "[TuCodeOnGit][youtube]"
 <!-- END YOUTUBE-CARDS -->
 
 [youtube]: https://www.youtube.com/channel/UCF0-4sgpSsEt-ieIAJtfmAA
+There is nothing here yet!
