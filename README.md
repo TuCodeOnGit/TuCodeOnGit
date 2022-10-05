@@ -14,6 +14,7 @@ I'm a Frontend Developer and a Fullstack learner. "[TuCodeOnGit](https://www.you
       <a href="https://github.com/channel/TuCodeOnGit?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/TuCodeOnGit?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
+
 ---
 
 ### 🧰 Languages and Tools
