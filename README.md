@@ -1,6 +1,6 @@
-# 🌱♂️ TuCodeOnGit
+#Tú
 
-**`Digital Craftsman (Developer)`**
+**`Developer`**
 
 I am a Frontend Developer and Fullstack learner. "[TuCodeOnGit][youtube]"
 
